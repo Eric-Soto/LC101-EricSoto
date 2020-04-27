@@ -1,6 +1,6 @@
 /* styles.css */
 body{
-    background-color: black;
+    background-color: #1B1B1B;
     font-family: 'Playfair Display', serif;
     font-size: 110%;
     color: white;
@@ -41,6 +41,7 @@ header{
 .bodyHeadingsImages{
     width: 52%;
     height: 25%;
+    border-radius: 25px;
 }
 
 .parasBeforeImg{
@@ -52,14 +53,18 @@ header{
     height: 100%;
     float: right;
     margin-left: 12%;
-    background-color: #15202B;
+    background-color: black;
     margin-right: -12.3%;
     padding-left: 5%;
     margin-top: 1.5%;
     box-sizing: border-box;
     align-content: right;
-
+    border-radius: 25px;
    
+}
+
+#MkLeoPNG{
+    border-radius: 25px;
 }
 
 
